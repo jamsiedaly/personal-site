@@ -31,3 +31,10 @@
 </div>
 
 <slot />
+
+<footer class="footer p-10 bg-neutral text-neutral-content">
+    <nav>
+        <header class="footer-title">Contact me</header>
+        <a class="link link-hover" href="mailto: jamsiedaly@gmail.com">E-mail</a>
+    </nav>
+</footer>
