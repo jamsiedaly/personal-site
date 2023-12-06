@@ -18,11 +18,11 @@
         </div>
     </div>
 
-    <div class="divider divider-secondary my-10"><h1 class="text-5xl font-bold">What I've been up to</h1></div>
+    <div class="divider divider-neutral my-10"><h1 class="text-5xl font-bold">What I've been up to</h1></div>
 
     <div class="hero h-1/2 w-2/3 bg-base-200">
         <div class="hero-content flex-col lg:flex-row">
-            <img src="/img/broadstack.png" class="max-w-sm rounded-lg shadow-2xl mask mask-hexagon-2" alt="logo"/>
+            <img src="/img/broadstack.png" class="max-w-sm rounded-lg shadow-2xl mask mask-hexagon-2 w-1/2" alt="logo"/>
             <div>
                 <h1 class="text-5xl font-bold">Broadstack</h1>
                 <p class="py-6">A real time in browser broadcast production system. I built this my free time over the
@@ -33,7 +33,7 @@
         </div>
     </div>
 
-    <div class="divider divider-accent my-10"></div>
+    <div class="divider divider-secondary my-10"></div>
 
     <div class="hero h-1/2 w-2/3 bg-base-200">
         <div class="hero-content flex-col lg:flex-row">
@@ -50,15 +50,15 @@
                 <a class="btn btn-primary" href="https://github.com/jamsiedaly/autometrics-plugin" target="_blank">Plugin source</a>
                 <a class="btn btn-accent" href="https://plugins.jetbrains.com/plugin/22408-autometrics" target="_blank">Install plugin</a>
             </div>
-            <img src="/img/autometrics-logo.png" class="max-w-sm rounded-lg shadow-2xl mask mask-hexagon bg-white" alt="logo"/>
+            <img src="/img/autometrics-logo.png" class="max-w-sm rounded-lg shadow-2xl mask mask-hexagon w-1/2" alt="logo"/>
         </div>
     </div>
 
-    <div class="divider divider-accent my-10"></div>
+    <div class="divider divider-secondary my-10"></div>
 
     <div class="hero h-1/2 w-2/3 bg-base-200">
         <div class="hero-content flex-col lg:flex-row">
-            <img src="/img/ferris.png" class="max-w-sm rounded-lg shadow-2xl mask mask-heart bg-white" alt="logo"/>
+            <img src="/img/ferris.png" class="max-w-sm rounded-lg shadow-2xl mask mask-heart w-1/2" alt="logo"/>
             <div>
                 <h1 class="text-5xl font-bold">Rust Developers Amsterdam</h1>
                 <p class="py-6">A few years ago I started a meetup group for Rust developers in Amsterdam. We meet
@@ -70,7 +70,7 @@
         </div>
     </div>
 
-    <div class="divider divider-accent my-10"></div>
+    <div class="divider divider-secondary my-10"></div>
 
     <div class="hero h-1/2 w-2/3 bg-base-200">
         <div class="hero-content flex-col lg:flex-row">
@@ -80,7 +80,7 @@
                     home country. I serve on the Amsterdam GAC committee as the club secretary.
                 </p>
             </div>
-            <img src="/img/gac.png" class="max-w-sm rounded-lg shadow-2xl mask mask-circle bg-white" alt="logo"/>
+            <img src="/img/gac.png" class="max-w-sm rounded-lg shadow-2xl mask mask-circle bg-white w-1/2" alt="logo"/>
         </div>
     </div>
 </div>
