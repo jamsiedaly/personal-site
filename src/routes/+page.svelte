@@ -1,5 +1,5 @@
 <div class="flex flex-col w-full items-center justify-center py-4">
-    <img src="/img/meetup-fiberplane.jpeg" alt="Me at a Meetup" class="mask mask-squircle w-1/3">
+    <img src="/img/meetup-fiberplane.jpeg" alt="Me at a Meetup" class="mask mask-squircle w-1/3 scale-50 hover:scale-150 transition ease-in-out duration-500">
 
     <div class="hero h-1/2 w-2/3 bg-base-200 my-2.5">
         <div class="hero-content text-center">
